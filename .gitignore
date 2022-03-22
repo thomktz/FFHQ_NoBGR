@@ -17,3 +17,5 @@ model/.ipynb_checkpoints/
 model/.ipynb_checkpoints/*
 
 model/models/*
+
+.DS_STORE
