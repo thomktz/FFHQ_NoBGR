@@ -8,7 +8,7 @@ However, the exact same code can be used to remove backgrounds from any face/per
 ### II. Method
 
 Direct implementation of the [Object Detection tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) by Pytorch.
-Trained weigths are too large for GitHub but the training method and data is included in the code.
+Trained weigths are too large for GitHub but the training method and data are included in the code.
 
 ### III. Results
 
