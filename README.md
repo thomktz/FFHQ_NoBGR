@@ -6,4 +6,7 @@ The code showcased here shows how to remove the background from all pictures in 
 
 ### II. Method
 
-Direct implementation of the ![Object Detection tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) by Pytorch.
+Direct implementation of the [Object Detection tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) by Pytorch.
+
+### III. Results
+
